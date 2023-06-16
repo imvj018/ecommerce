@@ -1,24 +1,19 @@
-{
-  
-  {
-    "id":"1",
-    "url":"https://chettinadcottonsaree.com/public/uploads/all/aKopCOyYi8lo1oqzwxDGw258RaZGtDrnNfXTQGpU.png",
-    "type":"image",
-    "date":"",
-    "time":""
-      },
-  {
-    "id":"2",
-    "url":"https://chettinadcottonsaree.com/public/uploads/all/mtjyt2JXdPhEmZncfhiakpv3dodZBedRhFeCJeII.png",
-    "type":"image",
-    "date":"",
-    "time":""
-      },
-  {
-    "id":"3",
-    "url":"https://chettinadcottonsaree.com/public/uploads/all/xofdIb49vM0cU4L5hC9pr4fUCHZJCh7hI2eSBUAP.png",
-    "type":"image",
-    "date":"",
-    "time":""
-      }
-}
+[{
+	"id": "1",
+	"url": "https://chettinadcottonsaree.com/public/uploads/all/aKopCOyYi8lo1oqzwxDGw258RaZGtDrnNfXTQGpU.png",
+	"type": "image",
+	"date": "",
+	"time": ""
+}, {
+	"id": "2",
+	"url": "https://chettinadcottonsaree.com/public/uploads/all/mtjyt2JXdPhEmZncfhiakpv3dodZBedRhFeCJeII.png",
+	"type": "image",
+	"date": "",
+	"time": ""
+}, {
+	"id": "3",
+	"url": "https://chettinadcottonsaree.com/public/uploads/all/xofdIb49vM0cU4L5hC9pr4fUCHZJCh7hI2eSBUAP.png",
+	"type": "image",
+	"date": "",
+	"time": ""
+}]

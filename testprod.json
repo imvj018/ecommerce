@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "name": "Jim Jam Cream Biscuit  23 g",
+      "added_by": "admin",
+      "seller_id": 9,
+      "shop_id": 0,
+      "shop_name": "In House Product",
+      "shop_logo": "https://krishanthmart.com/public/uploads/all/vXjlH3EpYeMsUvKQXVKwwJ7ynVXtNfma7eL6pzUQ.png",
+      "photos": [
+        {
+          "variant": "",
+          "path": "https://krishanthmart.com/public/assets/img/placeholder.jpg"
+        },
+        {
+          "variant": "",
+          "path": "https://krishanthmart.com/public/uploads/all/V4xGTQlZIKIX7gj3fKJbh38ktF3x3SueR13VAsxR.jpg"
+        }
+      ],
+      "thumbnail_image": "https://krishanthmart.com/public/uploads/all/V4xGTQlZIKIX7gj3fKJbh38ktF3x3SueR13VAsxR.jpg",
+      "tags": [
+        "Jim Jam Cream Biscuit  23 g"
+      ],
+      "price_high_low": "From ₹5.00 to ₹20.00",
+      "choice_options": [
+        {
+          "name": "3",
+          "title": "Weight",
+          "options": [
+            "50g"
+          ]
+        }
+      ],
+      "colors": [
+        
+      ],
+      "has_discount": false,
+      "discount": "-0%",
+      "stroked_price": "₹5.00",
+      "main_price": "₹5.00",
+      "calculable_price": 5,
+      "currency_symbol": "₹",
+      "current_stock": 10,
+      "unit": "PC",
+      "rating": 0,
+      "rating_count": 0,
+      "earn_point": 0,
+      "description": null,
+      "video_link": "",
+      "brand": {
+        "id": 5,
+        "name": "Britannia",
+        "logo": "https://krishanthmart.com/public/uploads/all/dT1kGVWRCs8WTkKHUULesm9uZQyDYngXIOCUcsYy.png"
+      },
+      "link": "https://krishanthmart.com/product/jim-jam-cream-biscuit-23-g"
+    }
+  ],
+  "success": true,
+  "status": 200
+}

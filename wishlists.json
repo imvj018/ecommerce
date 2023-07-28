@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "product": {
+        "id": 46,
+        "name": "Ariel Matic Top Load Detergent Washing Powder",
+        "thumbnail_image": "https://krishanthmart.com/public/uploads/all/NaYY4JiaI2zCGNsuRZOsWMTMYsrs1yoxwiNhS0Fh.jpg",
+        "base_price": "Rs1,141.00",
+        "rating": 0
+      }
+    },
+    {
+      "id": 1,
+      "product": {
+        "id": 44,
+        "name": "Tide Plus Double Power Detergent Washing Powder",
+        "thumbnail_image": "https://krishanthmart.com/public/uploads/all/C8epBkcGqlGqeKBoQ3Wyz39ZZOp8XiI159m1CKDO.jpg",
+        "base_price": "Rs870.00",
+        "rating": 0
+      }
+    }
+  ],
+  "success": true,
+  "status": 200
+}

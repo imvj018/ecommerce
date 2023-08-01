@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "user_id": 10,
+      "address": "Test address 1",
+      "country_id": 101,
+      "state_id": 35,
+      "city_id": 3683,
+      "country_name": "India",
+      "state_name": "Tamil Nadu",
+      "city_name": "Coimbatore",
+      "postal_code": "641001",
+      "phone": "9092594326",
+      "set_default": 0,
+      "location_available": false,
+      "lat": 90.99,
+      "lang": 180.99
+    },
+    {
+      "id": 3,
+      "user_id": 10,
+      "address": "address 2",
+      "country_id": 101,
+      "state_id": 35,
+      "city_id": 3683,
+      "country_name": "India",
+      "state_name": "Tamil Nadu",
+      "city_name": "Coimbatore",
+      "postal_code": "641001",
+      "phone": "9092594326",
+      "set_default": 1,
+      "location_available": false,
+      "lat": 90.99,
+      "lang": 180.99
+    }
+  ],
+  "success": true,
+  "status": 200
+}
